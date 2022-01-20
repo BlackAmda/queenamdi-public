@@ -1,6 +1,6 @@
 {
     "name": "queenamdi-public",
-    "version": "1.0.8",
+    "version": "1.0.9",
     "description": "NPM Package for Queen Amdi Public version.",
     "main": "main/index.js",
     "directories": {
